@@ -1,0 +1,173 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 100%;
+  font-weight: bold;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Lora', serif;
+  font-size: 5.625rem;
+  color: #595260;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem;
+  color: #595260;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+  color: #2C2E43;
+  font-size: 1.15rem;
+}
+
+a {
+  color: #2C2E43;
+  margin: 30px;
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: silver;
+}
+
+hr {
+  border: dotted silver;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+  border-width: 10px;
+}
+
+p {
+  line-height: 2;
+}
+
+/*.programmer {
+  font-weight: normal;
+}*/
+
+.top-container {
+  background-color: #FFEEDB;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #595260;
+  padding: 50px 0px 0px;
+}
+
+.footer-link {
+/*  margin: 30px;
+  font-family: 'Poppins', sans-serif;
+  color: #2C2E43;
+  text-decoration-line: none;
+  font-weight: bold; */
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 500px;
+}
+
+
+.profile {
+  width: 30%;
+  margin: auto;
+}
+
+.skills {
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.contact-me {
+  margin: 100px auto;
+  width: 30%;
+}
+
+.contact-text {
+  margin: 50px auto;
+}
+
+.signature-text {
+  color: #FFFFFF;
+  font-size: 0.75rem;
+  margin: 0;
+  padding: 50px 0;
+}
+
+.btn {
+   background: #595260;
+   background-image: -webkit-linear-gradient(top, #595260, #2C2E43);
+   background-image: -moz-linear-gradient(top, #595260, #2C2E43);
+   background-image: -ms-linear-gradient(top, #595260, #2C2E43);
+   background-image: -o-linear-gradient(top, #595260, #2C2E43);
+   background-image: -webkit-gradient(to bottom, #595260, #2C2E43);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: 'Poppins', sans-serif;
+   font-size: 1.15rem;
+   font-weight: 100;
+   padding: 10px 20px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.maccha-img {
+  width: 40%;
+}
+
+.chart-img {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.cocktail-img {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+/*.analysis-skill {
+  clear: left;
+}
+
+.cocktail-skill {
+  clear: right;
+}*/
